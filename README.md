@@ -1,3 +1,3 @@
 # SplitPage
 
-## [Preview](dev-flame.github.io/SplitPage/)
+## [Preview](https://dev-flame.github.io/SplitPage/)
